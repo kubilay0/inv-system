@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8dfed3f86256953458914696456e9d0f, type: 3}
-  m_Name: Apple
+  m_Name: Brood
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: b1485376105361e42b7a40aade25a6c1, type: 3}
-  stackLimit: 1
+  icon: {fileID: 21300000, guid: 16864410a1ecf3542bb717ff832fd049, type: 3}
+  stackLimit: 2
   stack: 1
-  name: cdcdscdscdcds
-  description: cdsdcscdscds
+  name: dcdcsddcs
+  description: cdscdscdscdscsdcds
+  dragable: 0

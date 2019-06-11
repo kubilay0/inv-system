@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8dfed3f86256953458914696456e9d0f, type: 3}
-  m_Name: Mango
+  m_Name: Mana Potion
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 785b77ecb5c08ff4184687d2d0c41417, type: 3}
   stackLimit: 1
   stack: 1
   name: bgdfdbfdvbfdvbvfd
   description: vdfvfdvfdvfdvdfsvfdsvdfs
+  dragable: 0
