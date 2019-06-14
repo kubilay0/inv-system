@@ -8,7 +8,7 @@ public class Item : ScriptableObject
     public Sprite icon;
     public int stackLimit;
     public int stack;
-    public string name;
+    public new string name;
     public string description;
     public bool dragable;
 

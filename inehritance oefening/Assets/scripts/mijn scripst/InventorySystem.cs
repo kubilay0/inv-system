@@ -7,7 +7,7 @@ public class InventorySystem : MonoBehaviour{
 
     public List<ItemClass> inventory = new List<ItemClass>();
     public ItemClass i;
-    public GameObject voorwerp;
+    //public GameObject voorwerp;
     public void Update()
     {
 
