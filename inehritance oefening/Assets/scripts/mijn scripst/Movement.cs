@@ -28,6 +28,4 @@ public class Movement : MonoBehaviour
     private void OnCollisionEnter(Collision collision) {
         tempList.Add(collision.transform.GetComponent<OnActiveItem>().item);
     }
-
-
 }
