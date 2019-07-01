@@ -5,16 +5,19 @@ using UnityEngine;
 public class OnActiveItem : MonoBehaviour
 {
     public Item item;
+    public string description;
+    public new string name;
+    public bool dragable;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+    public void Itemmanager (ScriptableObject addSO)
     {
+        print("hallo wereld");
         
+
     }
+    
+
+    
+
 }

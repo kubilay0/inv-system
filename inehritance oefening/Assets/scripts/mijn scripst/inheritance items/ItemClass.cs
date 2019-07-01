@@ -6,18 +6,9 @@ using UnityEngine;
 
 public class ItemClass : ScriptableObject {
     public Sprite image;
-    public string Name;
+    public string name;
     public string desc;
-    public GameObject O;
+    public GameObject GO;
 
-    public void Start()
-    {
-
-    }
-     
-    public void Update()
-    {
-
-    }
    
 }

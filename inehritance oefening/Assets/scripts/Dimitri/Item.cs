@@ -17,6 +17,6 @@ public class Item : ScriptableObject
         if (stack + amount < stackLimit)
             stack += amount;
         else
-            Debug.LogWarning("It's to much items!");
+            Debug.LogWarning("Your inventory is full");
     }
 }

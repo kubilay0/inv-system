@@ -259,7 +259,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 4.06e-43, w: -1.2282515e-19}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -409,12 +409,6 @@ MonoBehaviour:
   items:
   - {fileID: 11400000, guid: 47334446a2d93b44f84a754ccd2cfa45, type: 2}
   - {fileID: 11400000, guid: ad3a7732b817d1846ad7130b58ffee74, type: 2}
-  - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
-  - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
-  - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
-  - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
-  - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
-  - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
   - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
   - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}
   - {fileID: 11400000, guid: 0f5c1e62848715642bb48dcef6a90a56, type: 2}

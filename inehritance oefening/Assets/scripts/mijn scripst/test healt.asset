@@ -9,12 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8dfed3f86256953458914696456e9d0f, type: 3}
-  m_Name: Health Potion
+  m_Script: {fileID: 11500000, guid: 4199b2dfd3059004b806f543c9a21685, type: 3}
+  m_Name: test healt
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
-  stackLimit: 3
-  stack: 0
-  name: Health Potion
-  description: Drink this to heal for 50Hp
-  dragable: 1
+  image: {fileID: 21300000, guid: 16864410a1ecf3542bb717ff832fd049, type: 3}
+  Name: test ding
+  desc: gewoon
+  O: {fileID: 2760105821445250147, guid: 6e84100485f2f0f45a3e564f083277bb, type: 3}
